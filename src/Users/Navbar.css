@@ -1,0 +1,30 @@
+.nav {
+  background-color: rgb(36, 36, 39);
+  height: 150px;
+  display: flex;
+}
+
+.eikona {
+  margin-top: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.usern {
+  margin-right: 50vh;
+  color: aliceblue;
+  margin-top: 70px;
+  margin-left: 20px;
+}
+
+.ak {
+  margin-left: 100vh;
+  margin-top: 70px;
+  color: azure;
+  flex-direction: row;
+  align-items: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  object-fit: cover;
+}

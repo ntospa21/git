@@ -1,0 +1,15 @@
+.userinfo2 > img {
+  border-radius: 50%;
+  object-fit: contain;
+}
+.user__infoDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.user-infos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
